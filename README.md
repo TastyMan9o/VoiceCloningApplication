@@ -1,6 +1,6 @@
-# Voice Cloning Tool
+# Voice Cloning Application
 
-Voice Cloning Tool is a Python application for voice cloning, audio preprocessing, and video processing. This tool leverages various libraries including TTS, moviepy, and more.
+Voice Cloning Application is a Python application for voice cloning, audio preprocessing, and video processing. This tool leverages various libraries including TTS, moviepy, and more.
 
 ## Prerequisites:
     Python >= 3.9, < 3.11
@@ -57,12 +57,13 @@ Ultimate Vocal Remover (UVR5) is a tool used for audio preprocessing. If your au
 UVR5 Installation Guide
 1. **Download UVR5**:  Visit the [Ultimate Vocal Remover download page](https://github.com/Anjok07/ultimatevocalremovergui?tab=readme-ov-file)
 
-2. **Install UVR5**:  Click on 'UVR_5.X.X_setup.exe' and then choose the VoiceCloningTool folder as the installation directory.
+2. **Install UVR5**:  Click on 'UVR_5.X.X_setup.exe' and then choose the VoiceCloningApplication folder as the installation directory.
 
 
 
 ## Running the Application
-To run the Voice Cloning Tool, use the following command:
+To run the Voice Cloning Application, use the following command:
+    
     py main.py
 
 
