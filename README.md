@@ -11,7 +11,7 @@ Voice Cloning Tool is a Python application for voice cloning, audio preprocessin
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/TastyMan9o/VoiceCloningApplication.git
-    cd VoiceCloningTool
+    cd VoiceCloningApplication
     ```
 
 2. **Install required Python packages**:
